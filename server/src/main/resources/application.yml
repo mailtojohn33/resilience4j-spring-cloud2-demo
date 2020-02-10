@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/resilience4j/resilience4j-spring-cloud2-demo
+          uri: https://github.com/mailtojohn33/resilience4j-spring-cloud2-demo
           default-label: config
 
 #spring.profiles.active: native
